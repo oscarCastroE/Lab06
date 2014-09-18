@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Todo va saliendo bien :D
-=======
-Hola
+Qué tal vamos?
 
-He creado otra línea.
->>>>>>> master
+Lo logramos, no?
