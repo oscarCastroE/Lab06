@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Todo va saliendo bien :D
+=======
+Hola
+
+He creado otra línea.
+>>>>>>> master
